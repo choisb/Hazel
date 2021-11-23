@@ -5,3 +5,7 @@ bin/
 
 #Files
 *.user 
+*.vcxproj
+*.filters
+*.sln
+*.docx
