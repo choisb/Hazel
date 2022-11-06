@@ -30,7 +30,7 @@ namespace Hazel {
 
 		virtual void OnUpdate() = 0;
 
-		virtual unsigned int GetWidht() const = 0;
+		virtual unsigned int GetWidth() const = 0;
 		virtual unsigned int GetHeight() const = 0;
 
 		// Window attributes
